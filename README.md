@@ -9,4 +9,4 @@ The Solace JavaScript API library can be [downloaded here](http://dev.solace.com
 
 
 ## Resources
-    - [Publish/Subscribe](https://dev.solace.com/samples/solace-samples-javascript/publish-subscribe): Learn how to set up pub/sub messaging on a Solace VMR.
+   - [Publish/Subscribe](https://dev.solace.com/samples/solace-samples-javascript/publish-subscribe): Learn how to set up pub/sub messaging on a Solace VMR.
