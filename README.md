@@ -1,5 +1,5 @@
 # SolaceSubscriber
-Utilizing solace javascript samples to create a simple subscriber that will listen on a selected topic.
+Utilizing Solace javascript samples to create a simple subscriber that will listen on a selected topic.
 
 ### Download the Solace JavaScript API
 
@@ -9,4 +9,8 @@ The Solace JavaScript API library can be [downloaded here](http://dev.solace.com
 
 
 ## Resources
+   - Original Javascript Samples from solace can be found [here](https://github.com/SolaceSamples/solace-samples-javascript)
+   - Follow [these instructions](https://cloud.solace.com/learn/group_getting_started/ggs_signup.html) to quickly spin up a cloud-based Solace messaging service for your applications.
    - [Publish/Subscribe](https://dev.solace.com/samples/solace-samples-javascript/publish-subscribe): Learn how to set up pub/sub messaging on a Solace VMR.
+  
+   
