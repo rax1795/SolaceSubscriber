@@ -1,6 +1,8 @@
 # SolaceSubscriber
 Utilizing Solace javascript samples to create a simple subscriber that will listen on a selected topic.
 
+The subscriber was created to consume messages from a [publisher](), which is publishing simple registration data on to a topic
+
 ### Download the Solace JavaScript API
 
 These samples depend on version 10 or later of the Solace JavaScript API library.
