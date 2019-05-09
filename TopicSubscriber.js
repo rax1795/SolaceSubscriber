@@ -66,16 +66,16 @@ var TopicSubscriber = function (topicName) {
             subscriber.log('Already connected and ready to subscribe.');
             return;
         }
-        var hosturl = "ws://mr8ksiwsp23vv.messaging.solace.cloud:20451"
+        var hosturl = "" // input hosturl provided here
         // check for valid protocols
         // if (hosturl.lastIndexOf('ws://', 0) !== 0 && hosturl.lastIndexOf('wss://', 0) !== 0 &&
         //     hosturl.lastIndexOf('http://', 0) !== 0 && hosturl.lastIndexOf('https://', 0) !== 0) {
         //     subscriber.log('Invalid protocol - please use one of ws://, wss://, http://, https://');
         //     return;
         // }
-        var username = "solace-cloud-client";
-        var pass = "croo89sd2pkbmk49a325m21q1v";
-        var vpn = "msgvpn-jfgwkeg1ahl";
+        var username = ""; // input username provided here
+        var pass = ""; // input password provided here
+        var vpn = ""; // input vpn provided here
         // if (!hosturl || !username || !pass || !vpn) {
         //     subscriber.log('Cannot connect: please specify all the Solace message router properties.');
         //     return;
