@@ -9,6 +9,9 @@ These samples depend on version 10 or later of the Solace JavaScript API library
 
 The Solace JavaScript API library can be [downloaded here](http://dev.solace.com/downloads/).  The instructions in the solace tutorial assumes you have downloaded the Web Messaging API for JavaScript library and unpacked it to a known location. The samples assume a lib directory containing the API libraries will be installed in the same directory
 
+## License
+
+This project is licensed under the Apache License, Version 2.0. - See the [LICENSE](LICENSE) file for details.
 
 ## Resources
    - Original Javascript Samples from solace can be found [here](https://github.com/SolaceSamples/solace-samples-javascript)
